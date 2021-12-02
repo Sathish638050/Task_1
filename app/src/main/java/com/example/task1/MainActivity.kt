@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         color3.setOnClickListener {
             result.text = "You Click Orange Color"
-            result.setTextColor(Color.parseColor("#ED3F09   "))
+            result.setTextColor(Color.parseColor("#ED3F09"))
         }
 
     }
